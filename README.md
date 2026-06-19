@@ -36,10 +36,6 @@ This repository documents the learning progress and activities completed during 
 - Successfully completed the Simulink Onramp course.
 - Completed two courses from the MATLAB for the MathWorks Certified MATLAB Associate Exam learning path.
 
-### Day 6: Advanced Learning and Research
-- Completed two additional courses from the MATLAB for the MathWorks Certified MATLAB Associate Exam learning path.
-- Reviewed relevant research articles related to the project work.
-
 ---
 
 ## Skills Acquired
