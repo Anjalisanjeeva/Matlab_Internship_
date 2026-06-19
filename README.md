@@ -47,8 +47,6 @@ This repository documents the learning progress and activities completed during 
 - Data Import/Export Techniques
 - Simulink Modeling
 - AM Modulation System Design
-- PID Controller Design
-- DC Motor Speed Control
 - Research and Technical Literature Review
 
 ---
